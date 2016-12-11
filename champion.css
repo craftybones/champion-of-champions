@@ -1,0 +1,29 @@
+body {
+}
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Roboto';
+  font-size: 60px;
+}
+.champion_says {
+  margin-top: 300px;
+  text-align: center;
+  font-size: 50px;
+  font-style: italic;
+  font-weight: 100;
+}
+
+.champion_attribute {
+  margin-top: 20px;
+  font-size: 30px;
+  font-style: italic;
+  font-weight: 300;
+  text-align: right;
+}
